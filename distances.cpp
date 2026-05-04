@@ -30,7 +30,6 @@ int main() {
     cout << a << "\n";
     cout << b << "\n";
     cout << c << "\n";
-    return 0;
   }
   return 0;
 }
